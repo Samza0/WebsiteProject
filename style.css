@@ -1,0 +1,22 @@
+body {
+    background-color: ffffff;
+    color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: darkred;
+}
+
+h2 {
+    color: navy;
+}
+
+p {
+    color: black;
+    font-size: 18px;
+}
+
+li {
+    color: green;
+}
