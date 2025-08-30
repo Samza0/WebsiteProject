@@ -20,3 +20,16 @@ p {
 li {
     color: green;
 }
+
+.two-column-layout {
+    display: grid;
+    gap: 10px;
+    grid-template-columns: 1fr 1fr;
+}
+
+.flag{
+    display: block;
+    margin: 20px auto;
+    max-width: 300px;
+    height: auto;
+}
