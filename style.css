@@ -47,8 +47,8 @@ ul {
 }
 
 li {
-    text-align: center;
-    color: green;
+    text-align: left;
+    color: black;
     margin-bottom: 6px;
 }
 
@@ -59,4 +59,47 @@ li {
     height: auto;
     border-radius: 8px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+section.cv-section h1 {
+    text-align: left;
+    margin-top: 0;
+   
+
+
+
+
+}
+
+section.cv-section h2 {
+    text-align: left;
+    margin-top: 0;
+}
+
+.cv-section {
+    background-color: #f9f9f9; /* light gray */
+    padding: 15px;
+    margin: 20px auto;
+    max-width: 800px;
+}
+
+.cv-section h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: black;
+}
+
+/* Each box stacked vertically */
+.cv-box {
+    border: 1px solid #000;
+    background: lightgray;
+    padding: 20px;
+    margin-bottom: 15px; /* space between boxes */
+}
+
+.cv-box h3 {
+    margin-top: 0;
+    margin-bottom: 8px;
+    font-size: 16px;
+    color: black;
 }
