@@ -62,7 +62,7 @@ li {
 }
 
 section.cv-section h1 {
-    text-align: left;
+    text-align: center;
     margin-top: 0;
    
 
@@ -72,7 +72,7 @@ section.cv-section h1 {
 }
 
 section.cv-section h2 {
-    text-align: left;
+    text-align: center;
     margin-top: 0;
 }
 
@@ -102,4 +102,38 @@ section.cv-section h2 {
     margin-bottom: 8px;
     font-size: 16px;
     color: black;
+}
+
+.future-section {
+    background-color: #f9f9f9; /* light background */
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+}
+
+.future-section h2 {
+    text-align: center;
+    color: darkred;
+    margin-bottom: 20px;
+}
+
+.future-box {
+    border: 1px solid #000;
+    background: #fff;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+.future-box h3 {
+    margin-top: 0;
+    color: darkblue;
+}
+
+.future-box a {
+    color: darkgreen;
+    text-decoration: none;
+}
+
+.future-box a:hover {
+    text-decoration: underline;
 }
