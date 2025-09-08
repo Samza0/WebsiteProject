@@ -47,7 +47,11 @@ ul {
 }
 
 li {
+<<<<<<< HEAD
     text-align: center;
+=======
+    text-align: left;
+>>>>>>> 19364693ea7a623d26df0d69361310917049dea8
     color: black;
     margin-bottom: 6px;
 }
@@ -125,7 +129,10 @@ section.cv-section h2 {
 }
 
 .future-box h3 {
+<<<<<<< HEAD
     text-align: center;
+=======
+>>>>>>> 19364693ea7a623d26df0d69361310917049dea8
     margin-top: 0;
     color: darkblue;
 }
@@ -137,4 +144,8 @@ section.cv-section h2 {
 
 .future-box a:hover {
     text-decoration: underline;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 19364693ea7a623d26df0d69361310917049dea8
